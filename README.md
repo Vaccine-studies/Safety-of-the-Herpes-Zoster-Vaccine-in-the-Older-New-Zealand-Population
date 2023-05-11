@@ -2,7 +2,7 @@
 Safety of the Herpes Zoster Vaccine in the Older New Zealand Population: A Self-Controlled Case Series
 Paper Details
 
-    Short title: Covid-Safety-haemo
+    Short title: Safety of the Herpes Zoster Vaccine
 
     DOI: [Insert DOI of paper here]
 
